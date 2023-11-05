@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nguyen Phu</h1>
-<h3 align="center">An undergraduate student at HCMUTE majoring in Computer Engineering Technology.</h3>
+<h2 align="left">Hi 👋, I'm Nguyen Phu</h2>
+<h4 align="left">An undergraduate student at HCMUTE majoring in Computer Engineering Technology.</h4>
 
 - 🌱 I’m currently learning **C++, OOP, ML :v**
 
-- 💬 Ask me about **C++.**
+- 💬 Ask me about Photography, or experience life.
 
 - 📫 How to reach me **msnp@outlook.com.vn**
 
