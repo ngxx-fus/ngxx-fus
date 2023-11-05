@@ -1,4 +1,4 @@
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
 <h2 align="left">Hi 👋, I'm Nguyen Phu</h2>
 <h4 align="left">An undergraduate student at HCMUTE majoring in Computer Engineering Technology.</h4>
 
