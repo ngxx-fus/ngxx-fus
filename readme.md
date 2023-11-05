@@ -1,4 +1,4 @@
-(img align="right" alt="Coding" width="400" src="https://github.com/ngxx-fus/calendar_background/blob/a902b9380d61281c48e4f219190e38bff9fd9ca8/DSC_0073.JPG")
+<img align="right" alt="Coding" width="400" src="https://github.com/ngxx-fus/calendar_background/blob/a902b9380d61281c48e4f219190e38bff9fd9ca8/DSC_0073.JPG">
 <h2 align="left">Hi 👋, I'm Nguyen Phu</h2>
 <h4 align="left">An undergraduate student at HCMUTE majoring in Computer Engineering Technology.</h4>
 
