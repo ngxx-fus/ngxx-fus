@@ -1,17 +1,17 @@
-<h2 align="left">Hi 👋, I'm Nguyen Phu</h2>
+<h2 align="left">Hi, I'm Nguyen Phu</h2>
 <h4 align="left">An undergraduate student at HCMUTE majoring in Computer Engineering Technology.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngxx-fus&label=Profile%20views&color=0e75b6&style=flat" alt="ngxx-fus" /> </p>
 
 - I'm completing an OOP final project: [MiniSupermaket Management](https://github.com/ngxx-fus/MiniSupermarket_Management)
 
-- 🌱 I’m currently learning **C++, OOP, ML :v**
+- I’m currently learning **C++, OOP, ML :v**
 
-- 💬 Ask me about **Photography, Experience life, or anything you want.**
+- Ask me about **Photography, Experience life, or anything you want.**
 
-- 📫 How to reach me **msnp@outlook.com.vn**
+- How to reach me **msnp@outlook.com.vn**
 
-- ⚡ Fun fact **I enjoy talking and riding my bike a lot.**
+- Fun fact **I enjoy talking and riding my bike a lot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
