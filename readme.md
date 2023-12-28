@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngxx-fus&label=Profile%20views&color=0e75b6&style=flat" alt="ngxx-fus" /> </p>
 
-- I'm completing an OOP final project: [MiniSupermaket Management](https://github.com/ngxx-fus/MiniSupermarket_Management)
+- There is the first project with Qt C++: [MiniSupermaket Management](https://github.com/ngxx-fus/MiniSupermarket_Management)
 
 - I’m currently learning **C++, OOP, ML :v**
 
