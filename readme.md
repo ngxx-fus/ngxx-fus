@@ -9,7 +9,7 @@
 
 - Ask me about **Photography, Experience life, or anything you want.**
 
-- How to reach me **msnp@outlook.com.vn**
+- How to reach me **nthanhphu.k22.hcmute@gmail.com**
 
 - Fun fact **I enjoy talking and riding my bike a lot.**
 
