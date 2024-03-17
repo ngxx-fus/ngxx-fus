@@ -11,7 +11,7 @@
 
 - How to reach me **nthanhphu.k22.hcmute@gmail.com**
 
-- Fun fact **I enjoy talking and riding my bike a lot.**
+- NOTE:> **I enjoy talking and riding my bike a lot.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
