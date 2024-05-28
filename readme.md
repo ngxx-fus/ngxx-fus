@@ -13,8 +13,7 @@
 |Data frame extraction| C# (WinForms framework) | Windows App | Finished  | ![Data frame extraction](https://github.com/ngxx-fus/data-frame-extraction) is the "stuff" project, I made it at the day before final examination of DACL course. The app help you extract 10 bit data received to a character, and start bit  (1 or 0), parity is used or not.|
 | SPI | Verilog | IC Design | unfinished| ![SPI](https://github.com/ngxx-fus/SPI_INTERFACE) - midterm project in **ICSD course**. The project to design an IC which able to communicate with its other via SPI. The first i separate all function in SPI IC (sending, receiving, control, status) into 4 blocks(module). Finally, put them into a block (module) called SPI. All blocks in SPI IC are exactly working!  But when I put them into SPI IC, it didn't work!|
 
-- And the first project with Python (ML):
-- I’m currently learning **C++, OOP, ML :v**
+- Currently I am researching and learning about IoT.
 
 - Ask me about **Photography, Experience life, or anything you want.**
 
