@@ -7,7 +7,7 @@
 
 | Project      | Lang | Categorize   | Status   | Description   |
 | :---        |    :----:   |          :---: |          :---: |          :--- |
-| ​Fire safety and monitoring system for apartments | Python/HTML/CSS/JS | Embeded (Linux and Web Application) | Finished    | ![SIC-IoT ](https://github.com/ngxx-fus/SIC-IoT-CapStoneProject) Capstone project of Samsung Innovation Campus. |
+| ​Fire safety and monitoring system for apartments | QtPython/HTML/CSS/JS  | Embeded (Linux and Web Application) | Finished    | ![SIC-IoT ](https://github.com/ngxx-fus/SIC-IoT-CapStoneProject) Capstone project of Samsung Innovation Campus. |
 | MiniSupermaket Management      |  C++ <br> (Qt framework)        | OOP <br> (Windows App)   | Finished    | ![MiniSupermaket Management](https://github.com/ngxx-fus/MiniSupermarket_Management)  is the final project of **OOP with C++ course** at university. The project make an application running locally (no database online, all data is stored in a txt-file) to manage a miniSupermaket management with some basic features (add/modify/earse customer/goods/bill).    |
 | Lane detection   | Python <br> (PyTorch framework)   |  Machine Learning   |  Finished    | ![Lane Detection](https://github.com/ngxx-fus/MLAI_PSPNet_FNEX) is the final project if **ML&AI course** at university. The project performs basic lane recognition, such as left lane, moving lane, right lane using PSPnet. |
 | Blink led on STM32F103C8T6 | ASM | MCU | Finished  | ![Blink led on STM32F103C8T6](https://github.com/ngxx-fus/STM32F103C8T6_BLINK_BUILTIN_LED) is a mimi project in **COOA course**, was made to illustration how IS (instruction set) works on ARM 32bit processor.|
