@@ -7,18 +7,18 @@
 
 | Project      | Lang | Categorize   | Status   | Description   |
 | :---        |    :----:   |          :---: |          :---: |          :--- |
-| ​Fire safety and monitoring system for apartments | QtPython/HTML/CSS/JS  | Embeded (Linux and Web Application) | Finished    | ![SIC-IoT ](https://github.com/ngxx-fus/SIC-IoT-CapStoneProject) Capstone project of Samsung Innovation Campus. My part in thís project is making GUI application in linux (Raspian OS for Raspberry Pi 4). Control reading sensor (temp, humid, image, gas, flaming) and syncing to server (Firebase). |
-| MiniSupermaket Management      |  C++ <br> (Qt framework)        | OOP <br> (Windows App)   | Finished    | ![MiniSupermaket Management](https://github.com/ngxx-fus/MiniSupermarket_Management)  is the final project of **OOP with C++ course** at university. The project make an application running locally (no database online, all data is stored in a txt-file) to manage a miniSupermaket management with some basic features (add/modify/earse customer/goods/bill).    |
-| Lane detection   | Python <br> (PyTorch framework)   |  Machine Learning   |  Finished    | ![Lane Detection](https://github.com/ngxx-fus/MLAI_PSPNet_FNEX) is the final project if **ML&AI course** at university. The project performs basic lane recognition, such as left lane, moving lane, right lane using PSPnet. |
-| Blink led on STM32F103C8T6 | ASM | MCU | Finished  | ![Blink led on STM32F103C8T6](https://github.com/ngxx-fus/STM32F103C8T6_BLINK_BUILTIN_LED) is a mimi project in **COOA course**, was made to illustration how IS (instruction set) works on ARM 32bit processor.|
-|Data frame extraction| C# (WinForms framework) | Windows App | Finished  | ![Data frame extraction](https://github.com/ngxx-fus/data-frame-extraction) is the "stuff" project, I made it at the day before final examination of **DACL course**. The app help you extract 10 bit data received to a character, and start bit  (1 or 0), parity is used or not.|
-| SPI | Verilog | IC Design | unfinished| ![SPI](https://github.com/ngxx-fus/SPI_INTERFACE) - midterm project in **ICSD course**. The project to design an IC which able to communicate with its other via SPI. The first i separate all function in SPI IC (sending, receiving, control, status) into 4 blocks(module). Finally, put them into a block (module) called SPI. All blocks in SPI IC are exactly working!  But when I put them into SPI IC, it didn't work!|
+| ​Fire safety and monitoring system for apartments | QtPython/HTML/CSS/JS  | Embeded (Linux and Web Application) | Finished    | [SIC-IoT ](https://github.com/ngxx-fus/SIC-IoT-CapStoneProject) Capstone project of Samsung Innovation Campus. My part in thís project is making GUI application in linux (Raspian OS for Raspberry Pi 4). Control reading sensor (temp, humid, image, gas, flaming) and syncing to server (Firebase). [Here](https://youtu.be/W4nJNAjR1XQ?si=B9jpi9AsltvsxjJy) is the presentation video. |
+| MiniSupermaket Management      |  C++ <br> (Qt framework)        | OOP <br> (Windows App)   | Finished    | [MiniSupermaket Management](https://github.com/ngxx-fus/MiniSupermarket_Management)  is the final project of **OOP with C++ course** at university. The project make an application running locally (no database online, all data is stored in a txt-file) to manage a miniSupermaket management with some basic features (add/modify/earse customer/goods/bill).    |
+| Lane detection   | Python <br> (PyTorch framework)   |  Machine Learning   |  Finished    | [Lane Detection](https://github.com/ngxx-fus/MLAI_PSPNet_FNEX) is the final project if **ML&AI course** at university. The project performs basic lane recognition, such as left lane, moving lane, right lane using PSPnet. |
+| Blink led on STM32F103C8T6 | ASM | MCU | Finished  | [Blink led on STM32F103C8T6](https://github.com/ngxx-fus/STM32F103C8T6_BLINK_BUILTIN_LED) is a mimi project in **COOA course**, was made to illustration how IS (instruction set) works on ARM 32bit processor.|
+|Data frame extraction| C# (WinForms framework) | Windows App | Finished  | [Data frame extraction](https://github.com/ngxx-fus/data-frame-extraction) is the "stuff" project, I made it at the day before final examination of **DACL course**. The app help you extract 10 bit data received to a character, and start bit  (1 or 0), parity is used or not.|
+| SPI | Verilog | IC Design | unfinished| [SPI](https://github.com/ngxx-fus/SPI_INTERFACE) - midterm project in **ICSD course**. The project to design an IC which able to communicate with its other via SPI. The first i separate all function in SPI IC (sending, receiving, control, status) into 4 blocks(module). Finally, put them into a block (module) called SPI. All blocks in SPI IC are exactly working  But when I put them into SPI IC, it didn't work|
 
 - Currently I am researching and learning about **IoT**.
 
 - Ask me about **Photography, Experience life, or anything you want.**
 
-- How to reach me **nthanhphu.k22.hcmute@gmail.com**
+- How to reach me **msnp@outlook.com.vn**
 
 - NOTE:> **I enjoy talking and riding my bike a lot.**
 
