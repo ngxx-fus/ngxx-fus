@@ -34,4 +34,4 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://github.com/ngxx-fus/source_respo.git"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0845939722" /></a></p><br><br>
+<p><a href="https://github.com/ngxx-fus/source_respo/blob/main/by_me_a_coffee.md"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0845939722" /></a></p><br><br>
