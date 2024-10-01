@@ -12,14 +12,6 @@
 | Lane detection   | Python <br> (PyTorch framework)   |  Machine Learning   |  Finished    | [Lane Detection](https://github.com/ngxx-fus/MLAI_PSPNet_FNEX) is the final project if **ML&AI course** at university. The project performs basic lane recognition, such as left lane, moving lane, right lane using PSPnet. |
 |Data frame extraction| C# (WinForms framework) | Windows App | Finished  | [Data frame extraction](https://github.com/ngxx-fus/data-frame-extraction) is the "stuff" project, I made it at the day before final examination of **DACL course**. The app help you extract 10 bit data received to a character, and start bit  (1 or 0), parity is used or not.|
 
-- Currently I am researching and learning about **IoT**.
-
-- Ask me about **Photography, Experience life, or anything you want.**
-
-- How to reach me **msnp@outlook.com.vn**
-
-- NOTE:> **I enjoy talking and riding my bike a lot.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/ngxx.fus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ngxx.fus" height="30" width="40" /></a>
