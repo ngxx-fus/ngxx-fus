@@ -15,15 +15,21 @@
 | Lane detection   | Python <br> (PyTorch framework)   |  Machine Learning   |  Finished    | [Lane Detection](https://github.com/ngxx-fus/MLAI_PSPNet_FNEX) is the final project if **ML&AI course** at university. The project performs basic lane recognition, such as left lane, moving lane, right lane using PSPnet. |
 |Data frame extraction| C# (WinForms framework) | Windows App | Finished  | [Data frame extraction](https://github.com/ngxx-fus/data-frame-extraction) is the "stuff" project, I made it at the day before final examination of **DACL course**. The app help you extract 10 bit data received to a character, and start bit  (1 or 0), parity is used or not.|
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">How to reach me?</h3>
 <p align="left">
-<a href="https://fb.com/ngxx.fus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ngxx.fus" height="30" width="40" /></a>
-<a href="https://instagram.com/ngxx.fus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ngxx.fus" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mot_sach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mot_sach" height="30" width="40" /></a>
+<a href="https://fb.com/ngxx.fus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ngxx.fus" height="30" width="30" /></a>
+<a href="https://instagram.com/ngxx.fus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ngxx.fus" height="30" width="30" /></a>
+<a href="https://codeforces.com/profile/mot_sach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mot_sach" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.qt.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="40" height="40"/> </a> </p>
+<p align="left"> 
+  <a><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a> 
+  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
+  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> 
+  <a><img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/128x128.png" alt="qt" height="30"/> </a> 
+  <a><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="30" height="30"/> </a> 
+</p>
 
 
 <h3 align="left">Support:</h3>
