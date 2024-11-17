@@ -29,7 +29,7 @@
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> 
   <a><img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/128x128.png" alt="bash shell" height="30"/> </a> 
   <a><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="30" height="30"/> </a> 
-  <a><img src="https://th.bing.com/th?id=ODLS.6827554e-5c97-4f7c-96a2-789dee9d2249" alt="uVison Keil C (C51)"  height="30"/> </a> 
+  <a><img src="https://logo-download.com/wp-content/data/images/svg/Keil-logo.svg" alt="uVison Keil C (C51)"  height="35"/> </a> 
 </p>
 
 
