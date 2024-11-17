@@ -1,9 +1,9 @@
-<h2 align="left">Hi, I'm Nguyen Phu <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2 align="left">Hi, I'm <b>ngxx.fus</b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h4 align="left">An undergraduate student at HCMUTE majoring in Computer Engineering Technology.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngxx-fus&label=Profile%20views&color=0e75b6&style=flat" alt="ngxx-fus" /> </p>
 
-- Here is some projects i did:
+> Here is some projects i did:
 
 | Project      | Lang | Categorize   | Status   | Description   |
 | :---        |    :----:   |          :---: |          :---: |          :--- |
@@ -17,9 +17,9 @@
 
 <h3 align="left">How to reach me?</h3>
 <p align="left">
-<a href="https://fb.com/ngxx.fus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ngxx.fus" height="30" width="30" /></a>
-<a href="https://instagram.com/ngxx.fus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ngxx.fus" height="30" width="30" /></a>
-<a href="https://codeforces.com/profile/mot_sach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mot_sach" height="30" width="30" /></a>
+  <a href="https://fb.com/ngxx.fus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ngxx.fus" height="30" width="30" /></a>
+  <a href="https://instagram.com/ngxx.fus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ngxx.fus" height="30" width="30" /></a>
+  <a href="https://codeforces.com/profile/mot_sach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mot_sach" height="30" width="30" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,8 +27,9 @@
   <a><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a> 
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
   <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> 
-  <a><img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/128x128.png" alt="qt" height="30"/> </a> 
+  <a><img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/128x128.png" alt="bash shell" height="30"/> </a> 
   <a><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="30" height="30"/> </a> 
+  <a><img src="https://th.bing.com/th?id=ODLS.6827554e-5c97-4f7c-96a2-789dee9d2249" alt="uVison Keil C (C51)"  height="30"/> </a> 
 </p>
 
 
