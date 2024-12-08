@@ -5,7 +5,7 @@
 
 > Here is some projects i did:
 
-| Project      | Lang | Categorize   | Status   | Description   |
+| Project(s)      | Lang(s)/Plaform(s) | Categorize   | Status   | Description   |
 | :---        |    :----:   |          :---: |          :---: |          :--- |
 | ESP32 IoT   |   C++       | IoT  | Finished | [ESP32 IoT]([https://github.com/ngxx-fus/flash_adc](https://github.com/ngxx-fus/esp32_projs)) <br> The labs in ITFA class at HCMUTE with some IoT platforms (ex. ERa, Blynk, Adafruit IO), and Realtime Database Firebase,|
 | Flash adc   |   n/a       | vlsi  | Finished | [flash adc](https://github.com/ngxx-fus/flash_adc) <br> A design of flash adc 3 bit in 90nm process. |
