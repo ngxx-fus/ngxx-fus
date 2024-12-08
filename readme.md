@@ -7,7 +7,7 @@
 
 | Project      | Lang | Categorize   | Status   | Description   |
 | :---        |    :----:   |          :---: |          :---: |          :--- |
-| ESP32 IoT   |   C++       | IoT  | Finished | [ESP32 IoT]([https://github.com/ngxx-fus/flash_adc](https://github.com/ngxx-fus/esp32_projs)) <br> The labs in ITFA class at HCMUTE with some IoT platform (ex. ERa, Blynk, Adafruit IO), and Realtime Database Firebase,|
+| ESP32 IoT   |   C++       | IoT  | Finished | [ESP32 IoT]([https://github.com/ngxx-fus/flash_adc](https://github.com/ngxx-fus/esp32_projs)) <br> The labs in ITFA class at HCMUTE with some IoT platforms (ex. ERa, Blynk, Adafruit IO), and Realtime Database Firebase,|
 | Flash adc   |   n/a       | vlsi  | Finished | [flash adc](https://github.com/ngxx-fus/flash_adc) <br> A design of flash adc 3 bit in 90nm process. |
 | at89c52 |C <br>(uVision Keil C) | Embeded | Finished | [at89c52](https://github.com/ngxx-fus/MCU_AT89C52) <br>- Calendar (interface with DS1302); <br>- Stupid Home (IR Remote, Auto ON/OFF, ADC, Timer); <br>- Snake Game (IR Remote); <br>- Stupid Home (IR Remote, Bluetooth, Auto ON/OFF, ADC, Timer) | 
 | Raspberry Kernel | n/a | Embeded<br>Makefile | Finished | [ARM aarch64 kernel](https://github.com/ngxx-fus/build_rpi4_kernel) <br> Make a custom kernel for arm aarch64. | 
