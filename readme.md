@@ -3,19 +3,23 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ngxx-fus&label=Profile%20views&color=0e75b6&style=flat" alt="ngxx-fus" /> </p>
 
+> Here is my resume:
+
+[Nguyen Thanh Phu - Resume](https://github.com/ngxx-fus/source_respo/blob/main/resume_nguyen_thanh_phu.md)<br>
+
 > Here is some projects i did:
 
-| Project(s)      | Lang(s)/Plaform(s) | Categorize   | Status   | Description   |
-| :---        |    :----:   |          :---: |          :---: |          :--- |
-| ESP32 IoT   |   C++       | IoT  | Finished | [ESP32 IoT](https://github.com/ngxx-fus/esp32_projs) <br> The labs in ITFA class at HCMUTE with some IoT platforms (ex. ERa, Blynk, Adafruit IO), and Realtime Database Firebase,|
-| Flash adc   |   n/a       | vlsi  | Finished | [flash adc](https://github.com/ngxx-fus/flash_adc) <br> A design of flash adc 3 bit in 90nm process. |
-| at89c52 |C <br>(uVision Keil C) | Embeded | Finished | [at89c52](https://github.com/ngxx-fus/MCU_AT89C52) <br>- Calendar (interface with DS1302); <br>- Stupid Home (IR Remote, Auto ON/OFF, ADC, Timer); <br>- Snake Game (IR Remote); <br>- Stupid Home (IR Remote, Bluetooth, Auto ON/OFF, ADC, Timer) | 
-| Raspberry Kernel | n/a | Embeded<br>Makefile | Finished | [ARM aarch64 kernel](https://github.com/ngxx-fus/build_rpi4_kernel) <br> Make a custom kernel for arm aarch64. | 
-| ​Fire safety and monitoring system for apartments | QtPython/HTML/CSS/JS  | Embeded (Linux and Web Application) | Finished    | [SIC-IoT ](https://github.com/ngxx-fus/SIC-IoT-CapStoneProject) <br> Capstone project of Samsung Innovation Campus. My part in thís project is making GUI application in linux (Raspian OS for Raspberry Pi 4). Control reading sensor (temp, humid, image, gas, flaming) and syncing to server (Firebase). [Here](https://youtu.be/W4nJNAjR1XQ?si=B9jpi9AsltvsxjJy) is the presentation video. |
-| Solar Farm Monitoring | Python <br> (PyQt6) | UI <br> (Ubuntu App) | Finished | [Solar Farm Monitoring](https://github.com/ngxx-fus/PyQt6) <br>This app was made for monitoring Solar Farm as a core monitor for quick activate/deactivate some cores system such as Security System, Fire Fighting System, Solar Panel Cooling System.|
-| MiniSupermaket Management      |  C++ <br> (Qt framework)        | UI OOP <br> (Windows App)   | Finished    | [MiniSupermaket Management](https://github.com/ngxx-fus/MiniSupermarket_Management)<br>  is the final project of **OOP with C++ course** at university. The project make an application running locally (no database online, all data is stored in a txt-file) to manage a miniSupermaket management with some basic features (add/modify/earse customer/goods/bill).    |
-| Lane detection   | Python <br> (PyTorch framework)   |  Machine Learning   |  Finished    | [Lane Detection](https://github.com/ngxx-fus/MLAI_PSPNet_FNEX)<br> is the final project if **ML&AI course** at university. The project performs basic lane recognition, such as left lane, moving lane, right lane using PSPnet. |
-| Snake Game (Console Game) | C | Stuff | Finished | [Snake Game](https://github.com/ngxx-fus/Snake_8x8_Console) <br> Add new header for Snake Game in Console (for C-Lang) | 
+| Project(s)      | Lang(s)/Platform(s) | Categorize   | Status   | Description   |
+| :---            |    :----:           |     :---:    |  :---:   |     :---      |
+| **ESP32 IoT**   | C++                 | IoT          | Finished | [ESP32 IoT](https://github.com/ngxx-fus/esp32_projs)<br>Labs in the ITFA class at HCMUTE with IoT platforms (e.g., ERa, Blynk, Adafruit IO) and Realtime Database Firebase. |
+| **Flash ADC**   | n/a                 | VLSI         | Finished | [Flash ADC](https://github.com/ngxx-fus/flash_adc)<br>Design of a 3-bit flash ADC in a 90nm process. |
+| **AT89C52**     | C<br>(uVision Keil C) | Embedded    | Finished | [AT89C52](https://github.com/ngxx-fus/MCU_AT89C52)<br>- Calendar (interface with DS1302);<br>- Stupid Home (IR Remote, Auto ON/OFF, ADC, Timer);<br>- Snake Game (IR Remote);<br>- Bluetooth integration for remote control. |
+| **Raspberry Kernel** | n/a           | Embedded<br>Makefile | Finished | [ARM aarch64 Kernel](https://github.com/ngxx-fus/build_rpi4_kernel)<br>Custom kernel development for ARM aarch64. |
+| **Fire Safety and Monitoring System for Apartments** | QtPython/HTML/CSS/JS | Embedded (Linux & Web) | Finished | [SIC-IoT](https://github.com/ngxx-fus/SIC-IoT-CapStoneProject)<br>Capstone project for Samsung Innovation Campus. Developed a GUI application for Raspbian OS, controlling sensor readings (temperature, humidity, gas, flames) and syncing data to Firebase. [Presentation Video](https://youtu.be/W4nJNAjR1XQ?si=B9jpi9AsltvsxjJy). |
+| **Solar Farm Monitoring** | Python<br>(PyQt6) | UI<br>(Ubuntu App) | Finished | [Solar Farm Monitoring](https://github.com/ngxx-fus/PyQt6)<br>Application for monitoring solar farm systems with quick activation/deactivation for security, fire fighting, and cooling systems. |
+| **MiniSupermarket Management** | C++<br>(Qt Framework) | UI OOP<br>(Windows App) | Finished | [MiniSupermarket Management](https://github.com/ngxx-fus/MiniSupermarket_Management)<br>Final project for OOP with C++ course. Developed a local application (data stored in txt-files) to manage a supermarket, including customer, goods, and bill operations. |
+| **Lane Detection** | Python<br>(PyTorch Framework) | Machine Learning | Finished | [Lane Detection](https://github.com/ngxx-fus/MLAI_PSPNet_FNEX)<br>Final project for ML&AI course. Implemented basic lane recognition using PSPNet for left, center, and right lanes. |
+| **Snake Game (Console)** | C | Stuff       | Finished | [Snake Game](https://github.com/ngxx-fus/Snake_8x8_Console)<br>Added new header for Snake Game in Console (C language). |
 
 <h3 align="left">How to reach me?</h3>
 <p align="left">
