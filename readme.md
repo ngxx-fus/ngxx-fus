@@ -5,7 +5,7 @@
 
 > Here is my resume:
 
-[Nguyen Thanh Phu - Resume](https://github.com/ngxx-fus/source_respo/blob/main/resume_nguyen_thanh_phu.md)<br>
+[Nguyen Thanh Phu](https://github.com/ngxx-fus/source_respo/blob/main/resume_nguyen_thanh_phu.md)<br>
 
 > Here is some projects i did:
 
