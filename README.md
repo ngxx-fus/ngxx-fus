@@ -28,18 +28,4 @@
   <a href="https://codeforces.com/profile/mot_sach" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mot_sach" height="30" width="30" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="30" height="30"/> </a> 
-  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="30" height="30"/> </a> 
-  <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="30" height="30"/> </a> 
-  <a><img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/PNG/128x128.png" alt="bash shell" height="30"/> </a> 
-  <a><img src="https://upload.wikimedia.org/wikipedia/commons/0/0b/Qt_logo_2016.svg" alt="qt" width="30" height="30"/> </a> 
-  <a><img src="https://logo-download.com/wp-content/data/images/svg/Keil-logo.svg" alt="uVison Keil C (C51)"  height="35"/> </a> 
-</p>
 
-
-<h3 align="left">Support:</h3>
-
-<p><a href="https://www.paypal.com/paypalme/ngxxfus"> <img align="left" src="https://logos-download.com/wp-content/uploads/2016/03/PayPal_Logo_1999.png"  width="170" alt="0845939722" /></a></p>
-<p><a href="https://github.com/ngxx-fus/source_respo/blob/main/Transaction_Information.md"> <img align="left" src="https://github.com/user-attachments/assets/6a841fbd-487c-448e-bb29-8e1c686f8cee"  width="130" alt="0845939722" /></a></p>
