@@ -1,8 +1,6 @@
 <h2 align="left">Hi, I'm <b>Hoàng Xuân Bách</b> <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <h4 align="left">An undergraduate student at HCMUTE majoring in Computer Engineering Technology.</h4>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ngxx-fus&label=Profile%20views&color=0e75b6&style=flat" alt="ngxx-fus" /> </p>
-
 > Here is my resume:
 
 [Nguyen Thanh Phu](https://github.com/ngxx-fus/source_respo/blob/main/resume_nguyen_thanh_phu.md)<br>
