@@ -40,4 +40,7 @@
 
 
 <h3 align="left">Support:</h3>
-<p><a href="https://github.com/ngxx-fus/source_respo/blob/main/by_me_a_coffee.md"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0845939722" /></a></p><br><br>
+
+<p><a href="https://www.paypal.com/paypalme/ngxxfus"> <img align="left" src="https://logos-download.com/wp-content/uploads/2016/03/PayPal_Logo_1999.png"  width="170" alt="0845939722" /></a></p>
+<p><a href="https://github.com/ngxx-fus/source_respo/blob/main/by_me_a_coffee.md"> <img align="left" src="https://github.com/user-attachments/assets/6a841fbd-487c-448e-bb29-8e1c686f8cee"  width="130" alt="0845939722" /></a></p>
+
