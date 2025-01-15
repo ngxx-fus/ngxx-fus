@@ -3,8 +3,26 @@
 >  aka Nguyễn Thanh Phú. I'm an undergraduate student at HCMUTE.
 
 ### Here is some project i did:
-|  Project's name |     HW     | Platfrom/Framwork |   Lang   | Category | Description | Link  |
+|  Project's name |     HW     | Platfrom/Framwork/Tools |   Lang   | Category | Description | Link  |
 | :---            |   :-----  | :-----            |   :---:  | :---:    | :----       | :---: |
-| Smart decor     | EPS_WROOM32<br>TFT2,2" | Arduino-ESP<br> | C++ | IoT | - Make `tft_utils.h` to draw the canvas (insert line, text, bitmap, 565color image) before display it into TFT.<br> - Applying **template function/class**, **variadic function** for more flexible; **doxygen** documentation generator.<br>  | [link](https://github.com/hg-xnb/agiftforcursh/tree/main) |
+| Smart decor     | EPS_WROOM32<br>TFT2,2" | Arduino_ESP<br> | C++ | IoT | - Make `tft_utils.h` to draw the canvas (insert line, text, bitmap, 565color image) before display it into TFT.<br> - Applying **template function/class**, **variadic function** for more flexible; **doxygen** documentation generator.<br>  | [link](https://github.com/hg-xnb/agiftforcursh/tree/main) |
 | Computer Organization Practice | 8051_Pro_Kit (AT89C52 inside) | uVsion Kiel | C | Embedded | - Control the compenents are connected to AT89C52 on the kit by config some registers using Clang.<br> - Make driver (I2C, SPI) to read/write with realtime IC, ADC/DAC IC, LCD16x2, HC05-like bluetooth module. | [limk](https://github.com/hg-xnb/at89c52_proj) |
 | MiniSupermarket Management | N/A | Qt | C++ | UI/OOP | Make a app to manage the MiniSupermarket using C++ with Qt framework. | [link](https://github.com/hg-xnb/minisupermarket_management_proj) |
+| Fire Safety and Monitoring System for Apartments | RPi4<br>HMi7" | PySide6/QtPython | PyThon (my part) | IoT | Create a system that can detect gas and fire, trigger an on-site warning, and send notifications to a website. Additionally, it tracks temperature and humidity, and displays the data in a chart on the dashboard. | [link](https://github.com/hg-xnb/siciot_capstoneproj) |
+| UI | N/A | PySide6/QtPython  | Python | UI | The task in ITFA course to make the local UI for a system. | [link](https://github.com/hg-xnb/gui_pyqt6) |
+| Flash ADC   | N/A  | N/A | N/A |  IC Design | Design a Flash ADC 3 bits using Cadence with Samsung's 90nm process. | [link](https://github.com/hg-xnb/flash_adc) |
+| RPi4 Kernel | RPi4 | Makefile | N/A | Embedded | Make a RPi kernel for writing driver/cross-compiling later. | [link](https://github.com/hg-xnb/build_rpi4_kernel) |
+| Snakeeee    | N/A  | N/A      | C   | N/A      | Snake game in console, C-version for a game in `8051_pro_kit`.| [link](https://github.com/hg-xnb/snake8x8_proj) |
+
+<h3 align="left"> How to reach me? </h3>
+
+|      |      |         |
+| :--: | :--  |  :----  |
+| <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnV4d3I3d3FvdHUzeGg0a3htejcwb2hsMWpsYnc5bmQxN21sbjRrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriOaQb6x2zlDaaeQ/giphy.gif" width="150"> | Email<br>Phone<Br>Instagrame | msnp@outlook.com.vn<br>0845939722<br>[hg.xnb](https://www.instagram.com/hg.xnb) |
+
+
+<details>
+<summary>
+</summary>
+
+</details>
