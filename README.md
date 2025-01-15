@@ -14,7 +14,7 @@
 | RPi4 Kernel | RPi4 | Makefile | N/A | Embedded | Make a RPi kernel for writing driver/cross-compiling later. | [link](https://github.com/hg-xnb/build_rpi4_kernel) |
 | Snakeeee    | N/A  | N/A      | C   | N/A      | Snake game in console, C-version for a game in `8051_pro_kit`.| [link](https://github.com/hg-xnb/snake8x8_proj) |
 
-<h3 align="left"> How to reach me? </h3>
+<h3 align="left"> How to reach me 🍀 </h3>
 
 |      |      |         |
 | :--: | :--  |  :----  |
@@ -23,7 +23,7 @@
 
 <details>
 <summary>
-Are you a **Human Resource** department employee?
+Are you a <b>Human Resource</b> department employee?
 </summary>
 
 [Here](https://drive.google.com/file/d/1dCVoP3apuazwhLD2I5B_sVpzpNUEbjYI/view?usp=sharing) is my resume, I'm looking for an intern jobbbbb...
