@@ -18,7 +18,7 @@
 
 |      |      |         |
 | :--: | :--  |  :----  |
-| <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnV4d3I3d3FvdHUzeGg0a3htejcwb2hsMWpsYnc5bmQxN21sbjRrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriOaQb6x2zlDaaeQ/giphy.gif" width="150"> | Email<br>Phone<Br>Instagrame | msnp@outlook.com.vn<br>0845939722<br>[hg.xnb](https://www.instagram.com/hg.xnb) |
+| <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnV4d3I3d3FvdHUzeGg0a3htejcwb2hsMWpsYnc5bmQxN21sbjRrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriOaQb6x2zlDaaeQ/giphy.gif" width="100"> | Instagram<br>Phone<br>Linkedin<Br>Email| [hg.xnb](https://www.instagram.com/hg.xnb)<br>[0845939722](https://zaloapp.com/qr/p/p7i50akv346q)<br>[Nguyen Thanh Phu](https://www.linkedin.com/in/phu-nguyen-thanh-438966261/)<br>msnp@outlook.com.vn |
 
 
 <details>
