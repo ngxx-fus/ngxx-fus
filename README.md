@@ -31,3 +31,9 @@ Are you a <b>Human Resource</b> department employee?
 👉 [Here](https://drive.google.com/drive/folders/14cW4-Gt1y7T0G9KDhr4ZR614RIMPlJSN?usp=sharing) is my resume, I'm looking for an intern jobbbbb...
 
 </details>
+<br>
+<br>
+
+---
+
+<h3 align="left"> ©</b> <img src="https://raw.githubusercontent.com/hg-xnb/hg-xnb/refs/heads/main/logo-nguyen-phu-1.png" height="30"></h3>
