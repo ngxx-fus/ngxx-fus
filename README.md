@@ -36,4 +36,4 @@ Are you a <b>Human Resource</b> department employee?
 
 ---
 
-<h3 align="left"> ©</b> <img src="https://raw.githubusercontent.com/hg-xnb/hg-xnb/refs/heads/main/logo-nguyen-phu-1.png" height="30"></h3>
+<h3 align="left"></b> <img src="https://raw.githubusercontent.com/hg-xnb/hg-xnb/refs/heads/main/logo-nguyen-phu-1.png" height="30"></h3>
