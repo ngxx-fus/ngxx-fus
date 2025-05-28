@@ -10,11 +10,11 @@ Bốn phương trời rộng, biết đâu mà tìm?<br>
 
 <h3 align="left"> ABOUT ME </h3>
 
-<img align="right" style="width:200px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhucDBkcnJ2N3ZoMTR6N2Nwa2d0Z2dmYTY1cnlydDhlMGJjM3FjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" atl="catworing"> 
+<img align="right" style="width:300px;" src="https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/refs/heads/main/camtucau.jpg" atl="catworing"> 
 
-<p> I'm Bách (or Phú), an undergraduate student at HCMUTE. I'm passionate about electronics and embedded systems—particularly **low-level programming**. I take great interest in having full control over every GPIO pin of a SoC and managing all drivers by myself. ;> </p>
+I'm an undergraduate student at HCMUTE. I'm passionate about electronics and embedded systems—particularly **low-level programming**. I take great interest in having full control over every GPIO pin of a SoC and managing all drivers by myself. ;> 
 
-[There](https://github.com/ngxx-fus/ngxx-fus/blob/main/PROJECTS.md)  are some of the projects I’ve poured my heart into. From controlling GPIO pins on a SoC to implementing efficient algorithms, these projects cover everything I’ve learned at university—from VLSI, FPGA, HLS, AL, to Embedded systems, and more. Feel free to explore and discover what I’ve built!
+[There](https://github.com/ngxx-fus/ngxx-fus/blob/main/PROJECTS.md)  are some of the projects I’ve poured my heart into.
 
 <br>
 <h3 align="left"> HOW TO REACH ME</h3>
@@ -24,14 +24,14 @@ Bốn phương trời rộng, biết đâu mà tìm?<br>
 | <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnV4d3I3d3FvdHUzeGg0a3htejcwb2hsMWpsYnc5bmQxN21sbjRrMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oriOaQb6x2zlDaaeQ/giphy.gif" width="100"> | Instagram<br>Phone<br>Linkedin<Br>Email| [ngxx.fus](https://www.instagram.com/ngxx.fus/)<br>[0845939722](https://zaloapp.com/qr/p/p7i50akv346q)<br>[Nguyen Thanh Phu](https://www.linkedin.com/in/phu-nguyen-thanh-438966261/)<br>msnp@outlook.com.vn |
 
 
+<br>
+<h3 align="left"> PRESENT, I'IM LOOKING FOR AN INTERSHIP</h3>
 <details>
 <summary>
 Are you a <b>Human Resource</b> department employee?
 </summary>
 
-👉 [Here](https://drive.google.com/drive/folders/14cW4-Gt1y7T0G9KDhr4ZR614RIMPlJSN?usp=sharing) is my resume, I'm looking for an intern jobbbbb...
-
-</details>
+👉 [Here](https://drive.google.com/drive/folders/14cW4-Gt1y7T0G9KDhr4ZR614RIMPlJSN?usp=sharing) is my CV. Could you take a minute to review it? I'm looking for an internship program.</details>
 <br>
 <br>
 
