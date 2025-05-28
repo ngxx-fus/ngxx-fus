@@ -1,4 +1,4 @@
-### Here is some projects i did:
+### Here are some projects I’ve done:
 |  Project's name |     HW     | Platfrom/Framwork/Tools |   Lang   | Category | Description | Link  |
 | :---            |   :-----   | :-----                  |   :---:  | :---:    | :----       | :---: |
 | Smart Decorative Screen<br>aka Agiftforcrush     | EPS_WROOM32<br>TFT2,2" | Arduino_ESP<br> | C++ | IoT | A gift for crush (included HW).  | [link](https://github.com/hg-xnb/agiftforcursh/tree/main) |
