@@ -12,10 +12,10 @@ Bốn phương trời rộng, biết đâu mà tìm?<br>
 
 <img align="right" style="width: 30%; max-width: 300px;" src="https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/refs/heads/main/camtucau.jpg" atl="catworing"> 
 
-<p align="left" > I'm an undergraduate student at HCMUTE.<br>
-I'm passionate about electronics and embedded systems—particularly <br>
-low-level programming. I take great interest in having full con-trol <br>
-  over every GPIO pin of a SoC and managing all drivers by myself. ;> <br>
+<p align="left" > I'm an undergraduate student at HCMUTE.
+I'm passionate about electronics and embedded systems—particularly
+low-level programming. I take great interest in having full con-trol
+  over every GPIO pin of a SoC and managing all drivers by myself.
 </p>
 
 [There](https://github.com/ngxx-fus/ngxx-fus/blob/main/PROJECTS.md)  are some of the projects I’ve poured my heart into.
