@@ -139,4 +139,4 @@ Are you a Human Resource department employee?
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/hg-xnb/hg-xnb/refs/heads/main/logo-nguyen-phu-1.png" height="20px">
+<img align="right" src="https://raw.githubusercontent.com/hg-xnb/hg-xnb/refs/heads/main/logo-nguyen-phu-1.png" height="30px">
