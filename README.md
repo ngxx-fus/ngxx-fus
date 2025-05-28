@@ -122,25 +122,10 @@ I'm Bách (or Phú). I'm passionate about low-level programming.
 <br>
 <h3 align="left"> HOW TO REACH ME</h3>
 
-<table>
-   <tr>
-        <td>
-            <img align="center" style="width: 100px" src="https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/refs/heads/main/camtucau.jpg" atl="catworing">
-        </td>
-        <td>
-            Instagram<br>Phone<br>Linkedin<Br>Email
-        </td>
-        <td>
-            <href src="https://www.instagram.com/ngxx.fus/" >ngxx.fus</href>
-            <br>
-            <href src="https://zaloapp.com/qr/p/p7i50akv346q" >0845939722</href>
-            <br>
-            <href src="https://www.linkedin.com/in/phu-nguyen-thanh-438966261/" >Nguyen Thanh Phu</href>
-            <br>
-            <href src="mailto:msnp@outlook.com.vn" >msnp@outlook.com.vn</href>
-        </td>
-   </tr>
-</table>
+|      |      |         |
+| :--: | :--  |  :----  |
+| <img src="https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/refs/heads/main/camtucau.jpg" width="100"> | Instagram<br>Phone<br>Linkedin<Br>Email| [hg.xnb](https://www.instagram.com/hg.xnb)<br>[0845939722](https://zaloapp.com/qr/p/p7i50akv346q)<br>[Nguyen Thanh Phu](https://www.linkedin.com/in/phu-nguyen-thanh-438966261/)<br>[msnp@outlook.com.vn](mailto:msnp@outlook.com.vn) |
+
 
 <br>
 <h3 align="left"> PRESENT, I'IM LOOKING FOR AN INTERSHIP</h3>
