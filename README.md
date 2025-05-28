@@ -12,7 +12,7 @@ Bốn phương trời rộng, biết đâu mà tìm?<br>
 
 <img align="right" style="width:200px;" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHhucDBkcnJ2N3ZoMTR6N2Nwa2d0Z2dmYTY1cnlydDhlMGJjM3FjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lJNoBCvQYp7nq/giphy.gif" atl="catworing"> 
 
-<p> I'm Bách (or Phú), an undergraduate student at HCMUTE. I'm passionate about electronics and embedded systems—particularly low-level programming. I take great interest in having full control over every GPIO pin of a SoC and managing all drivers by myself. ;> </p>
+<p> I'm Bách (or Phú), an undergraduate student at HCMUTE. I'm passionate about electronics and embedded systems—particularly **low-level programming**. I take great interest in having full control over every GPIO pin of a SoC and managing all drivers by myself. ;> </p>
 
 [There](https://github.com/ngxx-fus/ngxx-fus/blob/main/PROJECTS.md)  are some of the projects I’ve poured my heart into. From controlling GPIO pins on a SoC to implementing efficient algorithms, these projects cover everything I’ve learned at university—from VLSI, FPGA, HLS, AL, to Embedded systems, and more. Feel free to explore and discover what I’ve built!
 
@@ -37,4 +37,4 @@ Are you a <b>Human Resource</b> department employee?
 
 ---
 
-<h3 align="left"></b> <img src="https://raw.githubusercontent.com/hg-xnb/hg-xnb/refs/heads/main/logo-nguyen-phu-1.png" height="30"></h3>
+<h3 align="right"></b> <img src="https://raw.githubusercontent.com/hg-xnb/hg-xnb/refs/heads/main/logo-nguyen-phu-1.png" height="20px"></h3>
