@@ -130,7 +130,9 @@ I'm passionate about low-level programming.
 <summary>
 Are you a Human Resource department employee? 
 </summary>
+  
 [Here](https://drive.google.com/drive/folders/14cW4-Gt1y7T0G9KDhr4ZR614RIMPlJSN?usp=sharing) is my CV. Could you take a minute to review it? I'm looking for an internship program.
+
 </details>
 <br>
 <br>
