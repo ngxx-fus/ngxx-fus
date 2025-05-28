@@ -10,7 +10,7 @@ Bốn phương trời rộng, biết đâu mà tìm?<br>
 
 <h3 align="left"> ABOUT ME </h3>
 
-<img align="right" style="width:300px;" src="https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/refs/heads/main/camtucau.jpg" atl="catworing"> 
+<img align="right" style="width: 30%; max-width: 300px;" src="https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/refs/heads/main/camtucau.jpg" atl="catworing"> 
 
 I'm an undergraduate student at HCMUTE. I'm passionate about electronics and embedded systems—particularly **low-level programming**. I take great interest in having full control over every GPIO pin of a SoC and managing all drivers by myself. ;> 
 
