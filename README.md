@@ -14,7 +14,7 @@ I'm passionate about low-level programming.
 <h3 align="left"> PROJECTS </h3>
 <details>
 <summary>
-  <href src="https://github.com/ngxx-fus/ngxx-fus/blob/main/PROJECTS.md">There</href>  are some of the projects I’ve poured my heart into.
+  <href src="https://github.com/ngxx-fus/ngxx-fus/blob/main/PROJECTS.md">There</href>  are some of the projects I’ve poured my heart into. (Click to see details.)
 <br><br>
 </summary>
   <table border="1" width="100%">
@@ -128,7 +128,7 @@ I'm passionate about low-level programming.
 
 <details>
 <summary>
-Are you a Human Resource department employee? 
+Are you a Human Resource department employee?  (Click to see details.)
 </summary>
   
 [Here](https://drive.google.com/drive/folders/14cW4-Gt1y7T0G9KDhr4ZR614RIMPlJSN?usp=sharing) is my CV. Could you take a minute to review it? I'm looking for an internship program.
