@@ -32,7 +32,7 @@ I'm passionate about low-level programming.
       <td> -- </td>
       <td>SDL</td>
       <td>C</td>
-      <td> -- </td>
+      <td> App </td>
       <td>HW simulation API for developt embedded(MCU) UI </td>
       <td><a href="https://github.com/ngxx-fus/screen_sim_proj">link</a></td>
     </tr>
