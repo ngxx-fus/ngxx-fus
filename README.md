@@ -28,6 +28,15 @@ I'm passionate about low-level programming.
       <th align="center">Link</th>
     </tr>
     <tr>
+      <td>Screen simulation</td>
+      <td> -- </td>
+      <td>SDL</td>
+      <td>C</td>
+      <td> -- </td>
+      <td>HW simulation API for developt embedded(MCU) UI </td>
+      <td><a href="https://github.com/ngxx-fus/screen_sim_proj">link</a></td>
+    </tr>
+    <tr>
       <td>Smart Decorative Screen<br>aka Agiftforcrush</td>
       <td>EPS_WROOM32<br>TFT2,2"</td>
       <td>Arduino_ESP</td>
