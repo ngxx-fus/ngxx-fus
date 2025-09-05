@@ -148,4 +148,4 @@ Are you a Human Resource department employee?  (Click to see details.)
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/hg-xnb/hg-xnb/refs/heads/main/logo-nguyen-phu-1.png" height="30px">
+<img align="right" src="https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/refs/heads/main/NguyenPhuHandWritingCropped.png" height="30px">
