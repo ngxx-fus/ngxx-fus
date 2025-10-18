@@ -45,9 +45,14 @@ Reach me via:
 - Facebook (prefer): [https://www.facebook.com/ngxx.fus.3204](https://www.facebook.com/ngxx.fus.3204)
 - Instagram : [https://www.instagram.com/ngxx.fus/](https://www.instagram.com/ngxx.fus/)
 
+No worries — if you’re an exception, then all those words above are just decorations, right? :>
+I’ll take the initiative to get to know you, but I do hope for a little response in return. :3
+I’m easy to get along with — as long as we click, the rest doesn’t really matter. :3
+
 <img style="width:500px" src="https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/refs/heads/main/MS_EAE-XC_Intern_NguyenThanhPhu.png">
 
 ---
 
 Thanks to ChatGPT for helping me rephrase my words.
 Update: Oct.18.2025
+
