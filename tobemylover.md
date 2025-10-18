@@ -41,7 +41,11 @@ A relationship should be an exchange of love — when you give, you should also 
 
 # Can't wait to see youuu!
 
+Reach me via:
+- Facebook (prefer): [https://www.facebook.com/ngxx.fus.3204](https://www.facebook.com/ngxx.fus.3204)
+- Instagram : [https://www.instagram.com/ngxx.fus/](https://www.instagram.com/ngxx.fus/)
 
+<img style="width:500px" src="https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/refs/heads/main/MS_EAE-XC_Intern_NguyenThanhPhu.png">
 
 ---
 
