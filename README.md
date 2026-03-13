@@ -1,6 +1,6 @@
 <p align="center">
-<< Hoa đâu rơi giữa dòng, để nước cuốn đi,<br>
-Bốn phương trời rộng, biết đâu mà tìm? >> <br>
+[[ Hoa đâu rơi giữa dòng, để nước cuốn đi,<br>
+Bốn phương trời rộng, biết đâu mà tìm? ]] <br>
 </p>
 
 
@@ -33,7 +33,7 @@ I'm passionate about low-level programming.
 <td>N/A</td>
 <td>C</td>
 <td>N/A</td>
-<td>Clipboard manager demon (service) compatible for Ro-Fi.</td>
+<td>Clipboard manager daemon (service) compatible for Ro-Fi.</td>
 <td><a href="https://github.com/ngxx-fus/xClipboardCapture">link</a></td>
 </tr>
 <tr>
@@ -105,7 +105,7 @@ HC05-like bluetooth module.</td>
 <td>Qt</td>
 <td>C++</td>
 <td>UI/OOP</td>
-<td>Make a app to manage the MiniSupermarket using C++ with Qt framework.</td>
+<td>Make an app to manage the MiniSupermarket using C++ with Qt framework.</td>
 <td><a href="https://github.com/ngxx-fus/minisupermarket_management_proj">link</a></td>
 </tr>
 <tr>
