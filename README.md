@@ -254,6 +254,10 @@ Are you a Human Resource department employee?  (Click to see details.)
 [Here](https://drive.google.com/drive/folders/1sOjVBl1faO9eLofVBI5wDuuol60WtX3e?usp=sharing) is my CV. Could you take a minute to review it? I'm looking for an internship program.
 
 </details>
+
+<h3 align="left"> PINNED </h3>
+<img style="width:600px;" src=https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/8daf659a63e61a0acc2585369ac74320837dbf92/IMG_4270.JPG>
+
 <br>
 <br>
 
