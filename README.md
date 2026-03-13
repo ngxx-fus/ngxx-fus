@@ -259,7 +259,7 @@ Are you a Human Resource department employee?  (Click to see details.)
 
 |||
 |--:|--:|
-|<img style="width:400px;" src=https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/8daf659a63e61a0acc2585369ac74320837dbf92/IMG_4270.JPG>|<img style="width:400px;" src=https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/refs/heads/master/IMG_4258.JPG>|
+|<img  src=https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/8daf659a63e61a0acc2585369ac74320837dbf92/IMG_4270.JPG>|<img  src=https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/refs/heads/master/IMG_4258.JPG>|
 | | *B'Lao, Bao loc* |
 
 <br>
