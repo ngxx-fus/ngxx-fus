@@ -13,10 +13,10 @@ I'm passionate about low-level programming.
 
 <h3 align="left"> PROJECTS/PRACTICES/UTILS </h3>
 
-<href src="https://github.com/ngxx-fus/ngxx-fus/blob/main/PROJECTS.md">Here</href> are some projects, practices, and utils I’ve poured my heart into. <i>(Click to see details.)</i>
+<href src="https://github.com/ngxx-fus/ngxx-fus/blob/main/PROJECTS.md">Here</href> are some topics I’ve poured my heart into. <i>(Click to see details.)</i>
 
 <details>
-<summary> ### <i> Linux & Related </i> </summary>
+<summary> <i> Linux </i> </summary>
 <table border="1" width="100%">
 <tr>
 <th align="center">Title</th>
@@ -57,7 +57,7 @@ I'm passionate about low-level programming.
 </table>
 </details>
 <details>
-<summary> ### <i> Embedded & Related </i> </summary>
+<summary> <i> Embedded </i> </summary>
 <table border="1" width="100%">
 <tr>
 <th align="center">Title</th>
@@ -69,12 +69,12 @@ I'm passionate about low-level programming.
 <th align="center">Link</th>
 </tr>
 <tr>
-<td>Smart Decorative Screen<br>aka Agiftforcrush</td>
+<td>Smart Decorative Screen </td>
 <td>EPS_WROOM32<br>TFT2,2"</td>
 <td>Arduino_ESP</td>
 <td>C++</td>
-<td>IoT</td>
-<td>A gift for crush (included HW).</td>
+<td>Embedded</td>
+<td>N/A</td>
 <td><a href="https://github.com/ngxx-fus/agiftforcursh/tree/main">link</a></td>
 </tr>
 <tr>
@@ -166,7 +166,7 @@ href="https://github.com/ngxx-fus/agiftforcursh/tree/main">agiftforcrush</a>).</
 </table>
 </details>
 <details>
-<summary> ### <i> IC Design & Related </i> </summary>
+<summary> <i> IC Design </i> </summary>
 <table border="1" width="100%">
 <tr>
 <th align="center">Title</th>
@@ -207,7 +207,7 @@ href="https://github.com/ngxx-fus/agiftforcursh/tree/main">agiftforcrush</a>).</
 </table>
 </details>
 <details>
-<summary> ### <i> MLAI & Related </i> </summary>
+<summary> <i> MLAI </i> </summary>
 <table border="1" width="100%">
 <tr>
 <th align="center">Title</th>
