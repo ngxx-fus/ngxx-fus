@@ -201,7 +201,8 @@ href="https://github.com/ngxx-fus/agiftforcursh/tree/main">agiftforcrush</a>).</
 <td>Cadence virtuoso</td>
 <td>N/A</td>
 <td>IC Design</td>
-<td>Practice designe some basic modules (E.g: HA, FA, Inverter, AND, OR, COUNTER) Cadence with Samsung's 90nm process.</td>
+<td>Practice designe some basic modules (E.g: HA, FA, Inverter, AND, OR, COUNTER) Cadence with Samsung's
+90nm process.</td>
 <td><a href="https://github.com/ngxx-fus/vlsi_lab">link</a></td>
 </tr>
 </table>
@@ -219,6 +220,15 @@ href="https://github.com/ngxx-fus/agiftforcursh/tree/main">agiftforcrush</a>).</
 <th align="center">Link</th>
 </tr>
 <tr>
+<td>Wearable device for the blind </td>
+<td>N/A</td>
+<td>PyTorch, Arduino</td>
+<td>Python, C++</td>
+<td>ML, Embedded</td>
+<td>Implementation YOLONano on RPi4 for detect obj in COCO dataset. Help the blind find out public transition.</td>
+<td><a href="https://github.com/ngxx-fus/epics7-prj">link</a></td>
+</tr>
+<tr>
 <td>Implementation PSPNet for lane segmentation </td>
 <td>N/A</td>
 <td>PyTorch</td>
@@ -229,11 +239,6 @@ href="https://github.com/ngxx-fus/agiftforcursh/tree/main">agiftforcrush</a>).</
 </tr>
 </table>
 </details>
-
-
-
-
-
 
 <h3 align="left"> HOW TO REACH ME</h3>
 
