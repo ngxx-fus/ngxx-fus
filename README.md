@@ -259,14 +259,14 @@ href="https://github.com/ngxx-fus/agiftforcursh/tree/main">agiftforcrush</a>).</
 | :--: | :--  |  :----  |
 | <img src=".imgs/camtucau.jpg" width="100" > | Instagram<br>Phone<br>Linkedin<Br>Email| [ngxx-fus](https://www.instagram.com/ngxx-fus)<br>[0845939722](https://zaloapp.com/qr/p/p7i50akv346q)<br>[Nguyen Thanh Phu](https://www.linkedin.com/in/phu-nguyen-thanh-438966261/)<br>[msnp@outlook.com.vn](mailto:msnp@outlook.com.vn) |
 
-<!-- <details>
+<details>
 <summary>
 Are you a Human Resource department employee?  (Click to see details.)
  </i> </summary>
   
-[Here](https://drive.google.com/drive/folders/1sOjVBl1faO9eLofVBI5wDuuol60WtX3e?usp=sharing) is my CV. Could you take a minute to review it? I'm looking for an internship program.
+[Here](https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/refs/heads/master/ngxx-fus/.assets/LATEST-RESUME-NGUYEN-THANH-PHU-ENG.pdf) is my CV ;>
 
-</details> -->
+</details>
 
 <h3 align="left"> # VISITED PLACES / MEMORIES </h3>
 
