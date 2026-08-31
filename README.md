@@ -260,10 +260,11 @@ href="https://github.com/ngxx-fus/agiftforcursh/tree/main">agiftforcrush</a>).</
 | <img src=".imgs/camtucau.jpg" width="100" > | Instagram<br>Phone<br>Linkedin<Br>Email| [ngxx-fus](https://www.instagram.com/ngxx-fus)<br>[0845939722](https://zaloapp.com/qr/p/p7i50akv346q)<br>[Nguyen Thanh Phu](https://www.linkedin.com/in/phu-nguyen-thanh-438966261/)<br>[msnp@outlook.com.vn](mailto:msnp@outlook.com.vn) |
 
 <details>
+<!-- GH RAW: https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/refs/heads/master/ -->
 <summary>
 Are you a Human Resource department employee?  (Click to see details.)
  </i> </summary>
-<!-- GH RAW: https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/refs/heads/master/ -->
+
 [Here](https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/refs/heads/master/.assets/LATEST-RESUME-NGUYEN-THANH-PHU-ENG.pdf) is my CV ;>
 
 </details>
