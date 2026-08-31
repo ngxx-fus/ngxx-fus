@@ -71,6 +71,15 @@ I'm passionate about low-level programming.
 <th align="center">Link</th>
 </tr>
 <tr>
+<td>Zonal ECU Implementation over Ethernet Backbone, Independent Project </td>
+<td>EPS_WROOM32,<br>Eth W5500, GPS...</td>
+<td>PySide6,<br>ESP-IDF</td>
+<td>C/C++<br>Python</td>
+<td>Embedded</td>
+<td>N/A</td>
+<td><a href="https://github.com/ngxx-fus/ZonalArchECU_W_SomeIP">link</a></td>
+</tr>
+<tr>
 <td>Smart Decorative Screen </td>
 <td>EPS_WROOM32<br>TFT2,2"</td>
 <td>Arduino_ESP</td>
