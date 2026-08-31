@@ -263,8 +263,8 @@ href="https://github.com/ngxx-fus/agiftforcursh/tree/main">agiftforcrush</a>).</
 <summary>
 Are you a Human Resource department employee?  (Click to see details.)
  </i> </summary>
-  
-[Here](https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/refs/heads/master/ngxx-fus/.assets/LATEST-RESUME-NGUYEN-THANH-PHU-ENG.pdf) is my CV ;>
+<!-- GH RAW: https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/refs/heads/master/ -->
+[Here](https://raw.githubusercontent.com/ngxx-fus/ngxx-fus/refs/heads/master/.assets/LATEST-RESUME-NGUYEN-THANH-PHU-ENG.pdf) is my CV ;>
 
 </details>
 
