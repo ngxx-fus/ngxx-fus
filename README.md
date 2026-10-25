@@ -19,7 +19,7 @@ I'm passionate about low-level programming.
 
 <h3 align="left"> # PROJECTS </h3>
 
-[Here](.archive/PROJECTS.md) are some topics I’ve poured my heart into. <i>(Click to see details.)</i>
+[Here](./PROJECTS.md) are some topics I’ve poured my heart into. <i>(Click to see details.)</i>
 
 Followed by the projects I'm excited to showcase:
 
